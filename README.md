@@ -1,12 +1,12 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
-CID_423_Athena_Commando_F_Painter, 1500
-EID_BasketballV2, 500
+CID_704_Athena_Commando_F_LollipopTrickster, 1200
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1200
+Pickaxe_ID_363_LollipopTricksterFemale, 800
 na
 na
 na
-CID_586_Athena_Commando_F_PunkDevil, 1200
-Pickaxe_ID_138_Gnome, 800
-CID_170_Athena_Commando_F_Luchador, 1200
-Glider_ID_110_TeriyakiFish, 800
-Wrap_182_NeonAnimal, 500
-EID_TaiChi, 500
+CID_456_Athena_Commando_F_Sarong, 1200
+BID_468_Cyclone, 500
+EID_RunningManv3, 500
+Glider_ID_104_Math. 800
+MusicPack_039_Envy, 300
+CID_397_Athena_Commando_F_TreasureHunterFashion, 800
